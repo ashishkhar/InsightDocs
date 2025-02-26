@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+.env
+
+# Application data
+vector_store/
+*.json
+!example_config.json
+
+# System files
+.DS_Store
+.idea/
+.vscode/
+
+# Logs
+*.log 

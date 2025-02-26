@@ -1,0 +1,11 @@
+streamlit
+langchain
+langchain-community
+faiss-cpu
+sentence-transformers
+pdf2image
+pdfplumber
+openai>=1.0.0
+pandas
+plotly
+
