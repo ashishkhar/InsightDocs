@@ -1,0 +1,1 @@
+{"total_tokens": 30, "total_cost": 4.4999999999999996e-05, "usage_history": [{"timestamp": "2025-02-26 23:45:53", "tokens": 30, "cost": 4.4999999999999996e-05, "model": "deepseek/deepseek-r1-distill-llama-8b"}], "model_usage": {"deepseek/deepseek-r1-distill-llama-8b": {"tokens": 30, "cost": 4.4999999999999996e-05, "calls": 1}}}
