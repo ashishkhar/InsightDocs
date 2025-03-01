@@ -1,0 +1,1 @@
+{"model": "deepseek/deepseek-r1-distill-llama-8b", "tier": "unlimited", "daily_limit": 100, "messages_today": 0, "last_reset_date": "2025-02-26", "provider": "ollama", "ollama_host": "http://localhost", "ollama_port": 11434, "ollama_model": "deepseek-r1:latest", "ollama_temperature": 0.7, "ollama_context_window": 2048}
